@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "こころにくだもの",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-01-05T19:23:35.567656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こころにくだもの",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/01_こころにくだもの_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こころにくだもの",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_こころにくだもの_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こころにくだもの",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_こころにくだもの_米津玄師.txt"
+    }
+  ]
+}
